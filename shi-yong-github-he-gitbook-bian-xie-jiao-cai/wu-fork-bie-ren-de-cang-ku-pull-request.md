@@ -26,6 +26,6 @@
 
 ![](../.gitbook/assets/pp11.png)
 
-9\. 这时老师在Github上就会得到pull request信息，点击pull request，点进test仓库  这时老师看了下信息，如果可以合并，就点击绿色按钮 Merge pull request，也可以回复Comment。
+4\. 这时老师在Github上就会得到pull request信息，点击pull request，点进test仓库  这时老师看了下信息，如果可以合并，就点击绿色按钮 Merge pull request，也可以回复Comment。
 
 ![](../.gitbook/assets/pp12.png)
