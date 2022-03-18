@@ -1,8 +1,8 @@
 # 目录
 
 * [课程简介](./)
-* 准备工作
-* 使用 GitHub 和 GitBook 编写教材（Windows平台）
+* [准备工作](zhun-bei-gong-zuo.md)
+* 使用 GitHub 和 GitBook 编写教材
   * GitBook介绍
   * Git、GitHub与Gitbook
   * Markdown语法简单介绍
