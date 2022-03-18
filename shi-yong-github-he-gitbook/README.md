@@ -4,7 +4,7 @@
 
 #### 本章内容
 
-* GitBook介绍
+* [GitBook介绍](yi-gitbook-jie-shao.md)
 * Git、Github与Gitbook
 * Markdown语法简单介绍
 * 创建书并关联GitHub仓库
