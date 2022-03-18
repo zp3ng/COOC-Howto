@@ -36,17 +36,9 @@
 
 ![](../.gitbook/assets/pp7.png)
 
-
-
-8\. 对于协作者，可先按上述步骤，准备自己的Github和GitBook账户。然后登录自己的Github账号，搜索课程仓库，并Fork。 _“Fork”就是把一个别人的仓库复制到自己的帐户中来。_ &#x20;
-
 ![](../.gitbook/assets/pp8.png)
 
 9\. 协作者重复上述操作，将Fork的github仓库与gitbook关联。关联成功后，协作者在GitBook撰写课程内容，系统将自动同步至其Github仓库。
-
-![](../.gitbook/assets/pp9.png)
-
-![](../.gitbook/assets/pp10.png)
 
 **通过上述过程，已经将GitBook上书的仓库和GitHub上书的仓库关联起来了，以后既可以通过GitBook写书，也可以将更新提交到GitHub，极大的方便了多人协作撰写一本课本。**
 
