@@ -1,6 +1,6 @@
 # 目录
 
-* 课程简介[.](./ "mention")
+* [课程简介](./)
 * 准备工作
 * 使用 GitHub 和 GitBook 编写教材（Windows平台）
   * GitBook介绍
