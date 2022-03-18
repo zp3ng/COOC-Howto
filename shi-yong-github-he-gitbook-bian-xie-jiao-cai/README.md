@@ -1,11 +1,11 @@
-# 使用 GitHub 和 GitBook
+# 使用 GitHub 和 GitBook编写教材
 
 
 
 #### 本章内容
 
 * [GitBook介绍](yi-gitbook-jie-shao.md)
-* Git、Github与Gitbook
+* [Git、Github与Gitbook](./)
 * Markdown语法简单介绍
 * 创建书并关联GitHub仓库
 * fork别人的仓库，pull request

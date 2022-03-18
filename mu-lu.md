@@ -2,9 +2,9 @@
 
 * [课程简介](./)
 * [准备工作](zhun-bei-gong-zuo.md)
-* 使用 GitHub 和 GitBook 编写教材
-  * GitBook介绍
-  * Git、GitHub与Gitbook
+* [使用 GitHub 和 GitBook 编写教材](shi-yong-github-he-gitbook-bian-xie-jiao-cai/)
+  * [GitBook介绍](shi-yong-github-he-gitbook-bian-xie-jiao-cai/yi-gitbook-jie-shao.md)
+  * [Git、GitHub与Gitbook](shi-yong-github-he-gitbook-bian-xie-jiao-cai/er-gitgithub-yu-gitbook.md)
   * Markdown语法简单介绍
   * 创建书并关联GitHub仓库
   * fork别人的仓库，pull request
