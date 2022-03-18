@@ -6,8 +6,8 @@
 
 * [GitBook介绍](yi-gitbook-jie-shao.md)
 * [Git、Github与Gitbook](./)
-* Markdown语法简单介绍
-* 创建书并关联GitHub仓库
+* [Markdown语法简单介绍](san-markdown-yu-fa-jian-dan-jie-shao.md)
+* [创建书并关联GitHub仓库](si-chuang-jian-shu-bing-guan-lian-github-cang-ku.md)
 * fork别人的仓库，pull request
 * 安装环境、写作
 * 嵌入视频、讲义等多媒体内容
